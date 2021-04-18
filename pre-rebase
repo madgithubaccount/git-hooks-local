@@ -1,0 +1,5 @@
+#!bin/sh
+
+echo "Sorry no rebasing allowed"
+
+exit 1
